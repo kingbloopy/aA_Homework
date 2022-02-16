@@ -42,4 +42,3 @@ ele1 = new Elephant('Wiggles', 5000, ['backflip', 'twirl', 'juggle']);
 // console.log(ele1.grow());
 // console.log(ele1.addTrick('summersault'));
 // console.log(ele1.play());
-
